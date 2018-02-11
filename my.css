@@ -1,0 +1,94 @@
+img{
+	width: 250px;
+	height:250px;
+	float: left;
+margin: 1.66%;
+
+	border: 2px solid white;
+	box-shadow: 5px 5px gray;
+	
+	
+}
+	.im{
+		width: 250px;
+	height:250px;
+	float: left;
+margin: 1.66%;
+border-radius: 50%;
+	border: 2px solid white;
+	box-shadow: 5px 5px gray;
+	}
+.image1{width: 150px;
+	height:150px;
+	float: left;
+	margin: 3.66%
+	border-radius: 55%;
+
+border: solid 9px white;
+
+}
+.image2{width: 150px;
+	height:150px;
+	float: right;
+margin: 5.66%;
+border-radius: 50%;
+border: solid 9px white;
+
+}
+
+
+
+.image3{width: 150px;
+	height:150px;
+
+	float: left;
+margin: .66%;
+border-radius: 50%;
+border: solid 9px whitw;
+
+}
+td{font-size: 20px;
+
+}
+
+
+body{
+	
+	background :url(gallery/raj.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 20px;
+
+
+
+}
+.j{
+	margin-top: 20px;
+}
+.i{
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 20%;
+	
+}
+.t{
+	margin-top: 30px;
+}
+
+.id{
+	margin-top: 70px;
+	text-decoration: underline;
+	margin-left: 45%;
+}
+.iii{
+	
+	text-decoration: underline;
+	margin-left: 20%;
+}
+
+.tt{
+	
+	text-align: left;
+	margin: 40px 3px  50px 550px;
+	
+}
